@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Omran Alamayreh"
-  avatar           : "profile.png"
+  avatar           : "omran.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "omran@diism.unisi.it"
+  researchgate     : "https://www.researchgate.net/profile/Omran_Alamayreh" # example:
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "alamayreh"
   google_plus      :
   keybase          :
   instagram        :
